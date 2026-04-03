@@ -1,4 +1,4 @@
-# AI Projects
+# AI Projects Repository
 
 This repository contains a collection of AI-related notebooks and experiments.
 
@@ -6,13 +6,13 @@ This repository contains a collection of AI-related notebooks and experiments.
 
 ## AI Recipe Generator
 
-This notebook generates simple recipes based on randomly selected ingredients using the OpenAI API.
+This notebook generates recipes based on randomly selected ingredients using the OpenAI API.
 
 ### What it does
 
-* Selects a few random ingredients from a predefined list
+* Selects random ingredients from a predefined list
 * Sends a prompt to an OpenAI model
-* Returns a structured recipe based on those ingredients
+* Generates a recipe based on those ingredients
 
 ### File
 
@@ -35,7 +35,7 @@ Install dependencies:
 pip install openai
 ```
 
-Set your API key:
+Set your OpenAI API key:
 
 ```
 export OPENAI_API_KEY="your-api-key"
