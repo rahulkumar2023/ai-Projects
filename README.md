@@ -4,7 +4,7 @@ This repository contains a collection of AI-related notebooks and experiments.
 
 ---
 
-## 🍳 AI Recipe Generator
+## AI Recipe Generator
 
 This notebook generates simple recipes based on randomly selected ingredients using the OpenAI API.
 
@@ -20,7 +20,7 @@ This notebook generates simple recipes based on randomly selected ingredients us
 
 ---
 
-## 🛠️ Setup
+## Setup
 
 Clone the repository:
 
