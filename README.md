@@ -1,7 +1,3 @@
-Here is your **final, clean, professional, recruiter-ready README** — tightened slightly, placeholders fixed, no redundancy, no fluff:
-
----
-
 # AI Projects Repository
 
 This repository contains a collection of AI-driven applications built using the OpenAI API. The projects focus on applying large language models to practical use cases, including content generation, prompt engineering, and interactive workflows.
