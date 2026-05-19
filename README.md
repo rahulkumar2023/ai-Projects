@@ -1,4 +1,3 @@
-````markdown
 # AI Projects Repository
 
 This repository contains a collection of AI-driven applications built using the OpenAI API and modern NLP techniques. The projects focus on applying language models and data processing pipelines to practical use cases, including content generation, prompt engineering, interactive workflows, and financial text analysis.
