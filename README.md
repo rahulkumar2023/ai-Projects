@@ -150,5 +150,3 @@ This repository is intended for educational and experimental purposes. AI-genera
 # Summary
 
 This repository demonstrates practical applications of modern AI systems, focusing on building simple, effective tools powered by language models and NLP techniques while showcasing both technical implementation and applied problem-solving.
-````
-
