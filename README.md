@@ -1,3 +1,4 @@
+````markdown
 # AI Projects Repository
 
 This repository contains a collection of AI-driven applications built using the OpenAI API and modern NLP techniques. The projects focus on applying language models and data processing pipelines to practical use cases, including content generation, prompt engineering, interactive workflows, and financial text analysis.
@@ -45,18 +46,34 @@ Analyzes financial news articles to estimate sentiment-driven risk scores for co
 
 ---
 
+## AI Travel Itinerary Generator
+Generates personalized multi-day travel itineraries using OpenAI, weather data, and location-based recommendations.
+
+### Key Features
+- Personalized itinerary generation using GPT models  
+- Weather-aware travel recommendations  
+- Integration with OpenWeatherMap API  
+- Integration with Google Places API  
+- Indoor vs outdoor activity filtering based on weather conditions  
+- Budget-aware travel planning  
+- Dynamic prompt engineering workflows  
+
+**File:** `AI_Travel_Itinerary_Generator.ipynb`
+
+---
+
 # Setup
 
 ### Clone the repository:
 ```bash
 git clone https://github.com/rahulkumar2023/ai-projects.git
 cd ai-projects
-````
+```
 
 ### Install dependencies:
 
 ```bash
-pip install openai transformers torch spacy pandas numpy matplotlib beautifulsoup4 requests yfinance
+pip install openai transformers torch spacy pandas numpy matplotlib beautifulsoup4 requests yfinance python-dotenv
 ```
 
 ### Download SpaCy model:
@@ -89,6 +106,8 @@ $env:OPENAI_API_KEY="your-api-key"
 * NLP pipelines (sentiment analysis, entity recognition)
 * Data extraction and processing from web sources
 * Structuring and analyzing unstructured text data
+* API integration and external data retrieval
+* Weather-aware recommendation systems
 
 ---
 
@@ -96,6 +115,8 @@ $env:OPENAI_API_KEY="your-api-key"
 
 * Python
 * OpenAI API
+* OpenWeatherMap API
+* Google Places API
 * Hugging Face Transformers
 * SpaCy
 * Jupyter Notebook
@@ -109,6 +130,7 @@ $env:OPENAI_API_KEY="your-api-key"
 * Outputs may vary depending on prompt design and model behavior
 * The storytelling project requires user input during execution
 * The financial risk project uses general-purpose NLP models (not finance-specific)
+* Google Places API may require enabling billing in Google Cloud Console
 
 ---
 
@@ -131,3 +153,5 @@ This repository is intended for educational and experimental purposes. AI-genera
 # Summary
 
 This repository demonstrates practical applications of modern AI systems, focusing on building simple, effective tools powered by language models and NLP techniques while showcasing both technical implementation and applied problem-solving.
+````
+
