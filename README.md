@@ -148,8 +148,6 @@ $env:OPENAI_API_KEY="your-api-key"
 
 This repository is intended for educational and experimental purposes. AI-generated outputs may not always be accurate or appropriate and should be reviewed before use in production settings.
 
----
-
 # Summary
 
 This repository demonstrates practical applications of modern AI systems, focusing on building simple, effective tools powered by language models and NLP techniques while showcasing both technical implementation and applied problem-solving.
